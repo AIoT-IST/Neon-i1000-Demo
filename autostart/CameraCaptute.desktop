@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=CameraCaptute.desktop
+Comment=Camera application for AOP
+Exec=/home/adlink/Desktop/face.sh
+Icon=video
+Terminal=true
+Type=Application
